@@ -1,8 +1,8 @@
 # Hi! I am Harnoor Kaur Sagar 👋
 
-## I am a Grade 12 student at Maxwell Heights Secondary School
+## I am an Engineering 1 student at McMaster University
 
-I am an aspiring Web Developer and UI/UX Designer and have a passion for learning multiple programming languages. At the moment, I am working towards developing my skills in HTML5, CSS3, and JavaScript. I plan on pursuing a degree in Computer Science or Software Engineering in the future to achieve my career goals.
+I will be pursuing Software Engineering after first year. I thoroughly enjoy exploring various software and programming languages to expand my knowledge and create innovative solutions to real-world problems. I am deeply interested in the fields of artificial intelligence, cybersecurity, and web development. Feel free to contact or connect with me!
 
 ## Developer Skills
 
