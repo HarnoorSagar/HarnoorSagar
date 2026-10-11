@@ -1,6 +1,6 @@
 # Hi! I am Harnoor Kaur Sagar 👋
 
-## I am a second-year Software Engineering student at McMaster University
+## I am a third-year Software Engineering student at McMaster University
 
 I thoroughly enjoy exploring various software and programming languages to expand my knowledge and create innovative solutions to real-world problems. I am deeply interested in the fields of artificial intelligence, cybersecurity, and web development. Feel free to contact or connect with me!
 
