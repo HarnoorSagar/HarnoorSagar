@@ -12,4 +12,4 @@ Software Engineering (Co-op) student at **McMaster University**, currently build
 
 ## Connect
 
-[Portfolio](https://harnoorsagar.github.io/my-personal-website/) · [LinkedIn](https://www.linkedin.com/in/harnoor-sagar/) · [Email](mailto:sagarh2@mcmaster.ca)
+[Portfolio](https://harnoorsagar.github.io/my-personal-website/) · [LinkedIn](https://www.linkedin.com/in/harnoor-sagar/) · [Email](mailto:harnoor.sagar@gmail.com)
